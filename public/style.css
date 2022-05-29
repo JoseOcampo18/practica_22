@@ -1,0 +1,9 @@
+table.div {
+    padding-left: 20px;
+}
+
+ div.header h1{
+    display: flex;
+    justify-content: center;
+
+}
